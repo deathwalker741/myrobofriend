@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MYROBOFRIEND/static/css/main.ea3c8837.chunk.css",
+    "main.js": "/MYROBOFRIEND/static/js/main.e5df1544.chunk.js",
+    "main.js.map": "/MYROBOFRIEND/static/js/main.e5df1544.chunk.js.map",
+    "runtime-main.js": "/MYROBOFRIEND/static/js/runtime-main.6708717b.js",
+    "runtime-main.js.map": "/MYROBOFRIEND/static/js/runtime-main.6708717b.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/MYROBOFRIEND/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.11921295.chunk.js": "/MYROBOFRIEND/static/js/2.11921295.chunk.js",
+    "static/js/2.11921295.chunk.js.map": "/MYROBOFRIEND/static/js/2.11921295.chunk.js.map",
+    "static/js/3.dd0bc3c0.chunk.js": "/MYROBOFRIEND/static/js/3.dd0bc3c0.chunk.js",
+    "static/js/3.dd0bc3c0.chunk.js.map": "/MYROBOFRIEND/static/js/3.dd0bc3c0.chunk.js.map",
+    "index.html": "/MYROBOFRIEND/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/MYROBOFRIEND/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.ea3c8837.chunk.css.map": "/MYROBOFRIEND/static/css/main.ea3c8837.chunk.css.map",
+    "static/js/2.11921295.chunk.js.LICENSE.txt": "/MYROBOFRIEND/static/js/2.11921295.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6708717b.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.11921295.chunk.js",
+    "static/css/main.ea3c8837.chunk.css",
+    "static/js/main.e5df1544.chunk.js"
+  ]
+}
